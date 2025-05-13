@@ -41,4 +41,30 @@ flagged/
 
 # Logs
 *.log
-logs/ 
+logs/
+
+# Security
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+*.p12
+*.pfx
+*.p7b
+*.keystore
+*.jks
+
+# Security
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+*.p12
+*.pfx
+*.p7b
+*.keystore
+*.jks 
